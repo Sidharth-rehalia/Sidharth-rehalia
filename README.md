@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there 👋.
+I'm Sidharth Rehalia, a Web Analyst with experience in web development. I love working with data, optimizing web performance, and building interactive web applications. My expertise spans analytics, front-end and back-end development, and automation.
 
 <!--
 **Sidharth-rehalia/Sidharth-rehalia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
